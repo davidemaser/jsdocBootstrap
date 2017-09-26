@@ -51,7 +51,7 @@ NOTE: Both gulp and grunt can be configured to execute a watcher that runs the d
 
 To integrate the features of this demo project into an existing project, follow the steps below.
 
-<em>Assuming there is an existing package.json file</em>
+_Assuming there is an existing package.json file_
 
 - Copy the script and devDependendies into your existing package.json file. If these nodes do not exist in your package.json file,
 you will have to create them.

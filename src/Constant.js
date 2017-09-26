@@ -1,0 +1,2 @@
+/** @constant **/
+let objectName = 'OBJECT';

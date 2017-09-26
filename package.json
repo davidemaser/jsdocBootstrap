@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc-demo-x2o",
+  "version": "1.0.0",
+  "description": "This is a bootstrap for JSDOC implementation in a JS project",
+  "main": "index.js",
+  "scripts": {
+    "grunt-exec": "grunt doc",
+    "gulp-exec": "gulp doc"
+  },
+  "author": "David Maser (david.maser@barco.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsdoc-plugin": "^0.1.4",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-jsdoc3": "^1.0.1",
+    "jsdoc": "git+https://github.com/jsdoc3/jsdoc.git"
+  }
+}

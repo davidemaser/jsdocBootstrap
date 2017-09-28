@@ -17,6 +17,7 @@
     "gulp": "^3.9.1",
     "gulp-cli": "^1.4.0",
     "gulp-jsdoc3": "^1.0.1",
-    "jsdoc": "git+https://github.com/jsdoc3/jsdoc.git"
+    "jsdoc": "git+https://github.com/jsdoc3/jsdoc.git",
+    "jsdoc-oblivion": "0.0.9"
   }
 }

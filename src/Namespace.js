@@ -1,7 +1,27 @@
 /** @namespace */
 var util = {
-    something:{
+  /**
+   *
+   * @param one {Number[]}
+   * @param two {String}
+   */
+    something:function(one,two){
 
     },
-    else:'these'
+    /**@constant*/
+    else:'these',
+    /**@type {Object}*/
+    sublevel:{
+      /**@constant*/
+      lowerlevel:{
+        /**
+         * A niched function that actually does nothing
+         * whatsoever
+         * @return {null}
+         */
+        nichedFunction:function(){
+          return null;
+        }
+      }
+    }
 };
